@@ -30,4 +30,7 @@ Descrição:
 10) Info_Luiz_TCC.pdf - Infográfico informal e demonstrativo das fases do trabalho;
 11) dashTCC.pbix - projeto PowerBI desenvolvido para o trabalho
 
-# OBS: conforme consulta realizada no Fórum da Disciplina referente ao desenvolvimento do TCC, foi apresentada a particularidade de que, para o presente trabalho, foram utilizadas bases de dados reais da Instituição Financeira onde trabalho, razão pela qual o professor Danilo me orientou a fornecer via repositório, apenas a base final, já processada e devidamente anonimizada, de forma a impedir qualquer problema/risco advindo da circulação de dados sigilosos.
+*********************************************************************************************************************************************************************************
+OBS: conforme consulta realizada no Fórum da Disciplina referente ao desenvolvimento do TCC, foi apresentada a particularidade de que, para o presente trabalho, foram utilizadas 
+bases de dados reais da Instituição Financeira onde trabalho, razão pela qual o professor Danilo me orientou a fornecer via repositório, apenas a base final, já processada e devidamente anonimizada, de forma a impedir qualquer problema/risco advindo da circulação de dados sigilosos.
+*********************************************************************************************************************************************************************************
