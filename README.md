@@ -32,6 +32,3 @@ Descrição:
 7) ScriptTCC.ipynb - Jupyter Notebook referente à implementação do modelo de ML;
 8) AjusteCargo.ipynb - Jupyter Notebook referente ao código que seria utilizado para implementar estratégia de ajuste de nomenclatura de profissão (descartada);
 9) TCC_LuizAzevedo.pdf - Relatório final do trabalho;
-10) CanvasTCC.pdf - Workflow de apoio ao desenvolvimento do trabalho;
-11 Info_Luiz_TCC.pdf - Infográfico informal e demonstrativo das fases do trabalho;
-12) dashTCC.pbix - projeto PowerBI desenvolvido para o trabalho
