@@ -1,6 +1,3 @@
-# TCC_Luiz
-Arquivos referentes ao TCC Ciência de Dados e Big Data - PUC-MG
-
 
 # TCC_Luiz
 Arquivos referentes ao TCC Ciência de Dados e Big Data - PUC-MG, do aluno Luiz Carlos de Azevedo Junior
