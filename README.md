@@ -10,10 +10,11 @@ Arquivos contidos neste repositório:
 5) Exploracao_ouvidoria.ipynb
 6) Exploracao_cadastro.ipynb
 7) ScriptTCC.ipynb
-8) TCC_LuizAzevedo.pdf
-9) CanvasTCC.pdf
-10) Info_Luiz_TCC.pdf
-11) dashTCC.pbix
+8) AjusteCargo.ipynb
+9) TCC_LuizAzevedo.pdf
+10) CanvasTCC.pdf
+11) Info_Luiz_TCC.pdf
+12) dashTCC.pbix
 
 
 Descrição:
@@ -25,10 +26,11 @@ Descrição:
 5) Exploracao_ouvidoria.ipynb - Jupyter Notebook referente a explorações e testes diversos realizados sobre a base ouvidoria e dados parciais da base final de trabalho;
 6) Exploracao_cadastro.ipynb - Jupyter Notebook referente a explorações e testes diversos realizados sobre a base cadastro;
 7) ScriptTCC.ipynb - Jupyter Notebook referente à implementação do modelo de ML;
-8) TCC_LuizAzevedo.pdf - Relatório final do trabalho;
-9) CanvasTCC.pdf - Workflow de apoio ao desenvolvimento do trabalho;
-10) Info_Luiz_TCC.pdf - Infográfico informal e demonstrativo das fases do trabalho;
-11) dashTCC.pbix - projeto PowerBI desenvolvido para o trabalho
+8) AjusteCargo.ipynb - Jupyter Notebook referente ao código que seria utilizado para implementar estratégia de ajuste de nomenclatura de profissão (descartada);
+9) TCC_LuizAzevedo.pdf - Relatório final do trabalho;
+10) CanvasTCC.pdf - Workflow de apoio ao desenvolvimento do trabalho;
+11 Info_Luiz_TCC.pdf - Infográfico informal e demonstrativo das fases do trabalho;
+12) dashTCC.pbix - projeto PowerBI desenvolvido para o trabalho
 
 *********************************************************************************************************************************************************************************
 OBS: conforme consulta realizada no Fórum da Disciplina referente ao desenvolvimento do TCC, foi apresentada a particularidade de que, para o presente trabalho, foram utilizadas 
